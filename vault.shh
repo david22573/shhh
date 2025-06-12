@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "created": "2025-06-12T04:16:45Z",
+  "kdf": "argon2id",
+  "salt": "qJjMp/rdgzzHLU+RAQ9kJA==",
+  "nonce": "GRWW26sGUx+uzVjI",
+  "ciphertext": "OKQF7aSWQnrPjcWCJzgIpRP3e2MWnoBN504dqU3bZhjgJmetewXJG5tP/IycN+pqSNjjPLai74XVNiPwd8uqd+8="
+}
